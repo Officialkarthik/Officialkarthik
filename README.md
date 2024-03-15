@@ -2,8 +2,7 @@
 - 👀 I’m interested in python and Full stack 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on trainer 
-- 📫 How to reach me dammalapatikarthik@gmail.com
-  
+- 📫 How to reach me wait
 - ⚡ Fun fact: hopefully waiting 
 
 <!---
